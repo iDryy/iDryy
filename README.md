@@ -17,5 +17,5 @@
 ### PERFIL DO LINKEDIN
  
 <div> 
-  <a href="https://www.linkedin.com/in/idryy-endryo-39744a293/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/idryy-endryo-39744a293/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="link que leva ao linkedin"></a>
 </div>
